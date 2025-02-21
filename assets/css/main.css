@@ -1474,3 +1474,6 @@ section,
   border-radius: 50%;
   object-fit: cover;
 }
+a {
+  color: #272829;
+}
